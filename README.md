@@ -1,2 +1,5 @@
 # Maze_Bank
-Bnak system implemented using Node.js 
+Bank system implemented using Node.js 
+
+
+Scarp.js is main JS file for the system
